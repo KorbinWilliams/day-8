@@ -19,7 +19,8 @@ let choice = [
 ]
 
 function play() {
-  document.querySelector('rock').className = "check2";
+  if (document.querySelector('#rock').classList.contains("check1"))
+    return (document.querySelector('#rock').className = "check2")
 };
 
 

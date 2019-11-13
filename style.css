@@ -13,12 +13,24 @@ html, body {
   width: 200px;
 }
 
+#rock {
+  text-decoration-style: wavy;
+}
+
+#paper {
+  text-decoration-style: wavy;
+}
+
+#scissors {
+  text-decoration-style: wavy;
+}
+
 .check1 {
   color: rgb(16, 92, 88);
 }
 
 .check2 {
-color: lime;
+  color: lime;
 }
 
 .compcheck {
