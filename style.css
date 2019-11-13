@@ -1,0 +1,26 @@
+.bg1 {
+  background-color: rgb(16, 92, 88);
+  background-size: cover;
+  height: 100%;
+}
+
+html, body {
+  height: 100%;
+}
+
+.rps {
+  height: 200px;
+  width: 200px;
+}
+
+.check1 {
+  color: rgb(16, 92, 88);
+}
+
+.check2 {
+color: lime;
+}
+
+.compcheck {
+  color: red;
+}
