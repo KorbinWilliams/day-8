@@ -21,10 +21,6 @@ let choice = [
   }
 ]
 
-// function play() {
-// if (document.querySelector('#rock').classList.contains("check1"))
-// return (document.querySelector('#rock').className = "check2")
-// };
 debugger;
 function play(name) {
   let playerchoice = choice.find(c => c.title.toLowerCase() == name.toLowerCase())
